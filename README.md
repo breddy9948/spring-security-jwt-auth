@@ -29,8 +29,8 @@ This repository contains a Spring Boot project with JWT (JSON Web Token) authent
 
 ### Prerequisites
 - Java 11 or higher
-- Maven or Gradle (depending on your build tool of choice)
-- MySQL or another relational database (for user management)
+- Maven 
+- MySQL 
 
 ### Running the Application
 
